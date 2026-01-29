@@ -47,7 +47,7 @@ My work typically includes:
 **Technical Skills**
 
 - Data Tools: Power BI, SQL, Excel
-- Product Tools: Jira, Miro, Figma (user flows, mapping)
+- Product Tools: Jira, Miro, Figma (user flows, mapping), Postman, Make, Zapier
 - Others: Documentation, requirement gathering, experimentation basics
   
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
